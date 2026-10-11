@@ -149,6 +149,7 @@ For an uploaded CSV, try questions that refer to the actual columns in your file
 **Sagar Fadatare**
 
 GitHub: [@sagarfadatare](https://github.com/sagarfadatare)
+HuggingFace:[@sagarfadatare](https://huggingface.co/spaces/SagarFadatare00/Text-to-SQL-Analyst-Agent)
 
 ---
 
