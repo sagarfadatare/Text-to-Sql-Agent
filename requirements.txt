@@ -1,0 +1,6 @@
+openai
+duckdb
+pandas
+pydantic
+python-dotenv
+gradio
